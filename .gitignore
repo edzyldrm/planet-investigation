@@ -1,3 +1,7 @@
 a.dat
 b.dat
-.results/
+results/plots
+#*.dat
+!final.dat
+log_*.*
+log_*
